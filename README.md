@@ -1,0 +1,1 @@
+This repository contains all assignments for the Data Intensive Distributed Computing course (CS451). Each assignment focuses on key concepts in distributed data processing, leveraging Hadoop, MapReduce, and Scala for efficient computation at scale.
